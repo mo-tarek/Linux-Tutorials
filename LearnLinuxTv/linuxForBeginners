@@ -1,0 +1,25 @@
+1. introduction
+2. setting up a cloud instance
+3. setting up a virtualbox machine
+4. navigating the file system
+5. basic file editing
+6. moving and renaming files
+7. the bash configuration file
+8. command aliases
+9. understanding permissions
+10. checking resource usage
+11. intro to package management on debian-based distributions
+12. managing systemd units
+13. viewing logs
+14. managing users
+15. bash history
+16. output redirection
+17. streams
+18. variables
+19. the find command
+20. package management on fedora and centos(dnf and yum)
+21. changing permissions numerically
+22. remote management with openSSH
+23. transferring files with rsync
+24. transferring files with scp
+25. 
