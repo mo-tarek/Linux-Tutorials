@@ -1,0 +1,50 @@
+1. usermod
+2. sudo
+3. htop
+4. the ps command
+5. data streams(stdin, stout & sterr)
+6. nano(command-line text editor)
+7. user account & password expiration
+8. background(bg) and foreground(fg)
+9. bash aliases
+10. public key authentication
+11. scheduling tasks with cron
+12. awk
+13. the sed command
+14. managing groups
+15. the etc/fstab file
+16. managing users
+17. formatting & mounting storage volumes
+18. systemd: using the systemctl command
+19. symbolic links
+20. the find command
+21. understanding file & directory permissions
+22. navigating the linux file system
+23. the arch user repository(aur)
+24. the pacmand command
+25. the apt command
+26. setting the hostname of your linux workstation or server
+27. installing updates
+28. the sar command
+29. the grep command 
+30. the echo command
+31. bash history
+32. the dnf command
+33. understanding memory and swap usage
+34. the ping command
+35. the wget command
+36. the df and du commands
+37. the head and tail commands
+38. how to archive folders in linux(tar and gzip tutorial)
+39. how to interpret load average
+40. the cat command
+41. the diff command
+42. understanding logging
+43. what is $PATH on a linux shell?
+44. how to share files via sshfs
+45. the watch command
+46. how to use the Is command
+47. demistifying hostnames and domain names, how server naming benefits you?
+48. what is a distribution of linux?
+49. desktop environments
+50. connecting to linux servers via ssh
