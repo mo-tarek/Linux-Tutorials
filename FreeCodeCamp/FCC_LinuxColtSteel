@@ -1,0 +1,61 @@
+//video chapters
+
+1. introduction
+2. why use the command line?
+3. the world of operating systems
+4. what is linux?
+5. shells and bash
+6. setup for linux users
+7. setup for mac users
+8. setup for windows(wsl)
+9. using the terminal
+10. whoami
+11. man
+12. clear
+13. intro to options
+14. pwd
+15. ls
+16. cd
+17. mkdir
+18. touch
+19. rmdir
+20. rm
+21. open
+22. mv
+23. cp
+24. head
+25. tail
+26. date
+27. redirecting standard output
+28. cat
+29. less
+30. echo
+31. wc
+32. piping
+33. uniq
+34. expansions
+36. diff
+37. find
+38. grep
+39. du
+40. df
+41. history
+42. ps
+43. top
+44. kill
+45. killall
+46. jobs, bg and fg
+47. gzip
+48. gunzip
+49. tar
+50. nano
+51. alias
+52. xargs
+53. in
+54. who
+55. su
+56. sudo
+57. passwd
+58. chown
+59. understanding permissions
+60. chmod
