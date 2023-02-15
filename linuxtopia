@@ -1,0 +1,53 @@
+1. setup
+2. why manjaro?
+3. linux file system
+4. Nano Vs Vim
+5. important commands - part 1 
+6. find Vs locate
+7. important commands - part 2
+8. wildcards
+9. hardlink Vs softlink
+10. file permissions
+11. file ownership
+12. standard output to a file
+13. Aur 
+14.file.tar.gz
+15. server simulation, file display commands
+16. system update, cut command
+17. install linux alongside winodws
+18. awk
+19. sort & Uniq
+20. wc & diff & cmp
+21. combinning & splitting files
+22. sde command
+23. useradd & userdel, groupadd & groupdel
+24. monitor user, talking to users
+25. update kernel & other commands
+26. processes & cronjobs
+27. shell scripting #1, environment variables
+28. your first program on linux
+29. defining variables, user input & output with examples
+30. if...else statement with examples
+31. for...loop with examples
+32. while...loop with examples
+33. switch...case with examples
+34. let us make a program
+35. functions, local & global variables
+36. until loop, string compressions
+37. alias & github
+38. read passwords program
+39. auto-update system script
+40. how to install vbox on linux
+41. strings in bash
+42. create a server
+43. server data storage
+44. backup server
+45. moodle server
+46. linux systemd
+47. rsync
+48. arguments
+49. hdd/sdd or NVMe M.2 health check
+50. phpmyadmin
+51. zappix
+52. how to configure multiple sites with apache
+53. how to configure multiple sites with nginx
